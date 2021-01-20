@@ -82,7 +82,7 @@
         </plugins>
     </build>
 <scm>
-    <developerConnection>scm:git:https://github.com/piotrekfeldman/sfg-pet-clinic.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:piotrekfeldman/sfg-pet-clinic.git</developerConnection>
   <tag>v0.0.1</tag>
   </scm>
 </project>
