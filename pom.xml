@@ -83,7 +83,8 @@
             </plugin>
         </plugins>
     </build>
-<scm>
-    <developerConnection>scm:git:https://github.com/piotrekfeldman/sfg-pet-clinic.git</developerConnection>
-</scm>
+    <scm>    <connection>scm:git:https://${piotrek.feldman@gmail.com}:${System870326}@github.com/piotrekfeldman/sfg-pet-clinic.git</connection>
+        <url>http://server.host.name/path/to/project.git</url>
+        <tag>HEAD</tag>
+    </scm>
 </project>
