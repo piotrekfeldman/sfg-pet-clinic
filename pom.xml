@@ -83,8 +83,5 @@
         </plugins>
     </build>
     <scm>    <developerConnection>scm:git:https://github.com/piotrekfeldman/sfg-pet-clinic.git</developerConnection>
-
-
-      <tag>v0.0.2</tag>
   </scm>
 </project>
