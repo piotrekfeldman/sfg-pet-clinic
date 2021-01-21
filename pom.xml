@@ -82,8 +82,8 @@
             </plugin>
         </plugins>
     </build>
-    <scm>    <connection>scm:git:https://github.com/piotrekfeldman/sfg-pet-clinic.git</connection>
-        <url>http://server.host.name/path/to/project.git</url>
-        <tag>v0.0.1</tag>
+    <scm>    <developerConnection>scm:git:https://github.com/piotrekfeldman/sfg-pet-clinic.git</developerConnection>
+
+
     </scm>
 </project>
